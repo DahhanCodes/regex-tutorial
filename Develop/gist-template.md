@@ -1,7 +1,7 @@
 <span style="color:green;font-weight:700;font-size:12px">
     
 
-# Title (replace with your title)
+# Title
 <h1 align="center">REGEXP Tutorial </h1>
 
 # Intro
